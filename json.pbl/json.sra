@@ -11,7 +11,7 @@ end forward
 
 global type json from application
 string appname = "json"
-string appruntimeversion = "25.0.0.3683"
+string appruntimeversion = "25.0.0.3711"
 integer highdpimode = 0
 end type
 global json json
